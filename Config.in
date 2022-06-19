@@ -1,0 +1,3 @@
+source "$BR2_EXTERNAL_quantum_PATH/package/libnitrokey/Config.in"
+source "$BR2_EXTERNAL_quantum_PATH/package/nkmacsec/Config.in"
+
